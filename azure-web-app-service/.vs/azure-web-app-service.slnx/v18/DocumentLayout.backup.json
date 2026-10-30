@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\Projects\\Courses\\azure-web-app-service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57BFA19A-06AC-E699-E069-8ACA0493F192}|azure-web-app-service\\azure-web-app-service.csproj|c:\\code\\projects\\courses\\azure-web-app-service\\azure-web-app-service\\azure-web-app-service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57BFA19A-06AC-E699-E069-8ACA0493F192}|azure-web-app-service\\azure-web-app-service.csproj|solutionrelative:azure-web-app-service\\azure-web-app-service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BFA19A-06AC-E699-E069-8ACA0493F192}|azure-web-app-service\\azure-web-app-service.csproj|c:\\code\\projects\\courses\\azure-web-app-service\\azure-web-app-service\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57BFA19A-06AC-E699-E069-8ACA0493F192}|azure-web-app-service\\azure-web-app-service.csproj|solutionrelative:azure-web-app-service\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "azure-web-app-service",
+              "DocumentMoniker": "C:\\Code\\Projects\\Courses\\azure-web-app-service\\azure-web-app-service\\azure-web-app-service.csproj",
+              "RelativeDocumentMoniker": "azure-web-app-service\\azure-web-app-service.csproj",
+              "ToolTip": "C:\\Code\\Projects\\Courses\\azure-web-app-service\\azure-web-app-service\\azure-web-app-service.csproj",
+              "RelativeToolTip": "azure-web-app-service\\azure-web-app-service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-30T16:08:56.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Code\\Projects\\Courses\\azure-web-app-service\\azure-web-app-service\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "azure-web-app-service\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Code\\Projects\\Courses\\azure-web-app-service\\azure-web-app-service\\Pages\\Index.cshtml",
+              "RelativeToolTip": "azure-web-app-service\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T15:45:54.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

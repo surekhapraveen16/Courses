@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "azure-web-app-service/1.0.0": {
+        "runtime": {
+          "azure-web-app-service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "azure-web-app-service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
